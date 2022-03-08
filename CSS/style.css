@@ -1,0 +1,36 @@
+
+body {
+    background-image: url(web_background.avif);
+    background-size: cover;
+    color: rgba(244, 5, 252, 0.808);
+}
+
+h2 {
+    color: pink;
+    text-align: center;
+    /*border : 5px solid rgb(217, 255, 1);*/
+    cursor: pointer;
+}
+
+p {
+    color: pink;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.text1 {
+    background-color: rgba(225, 250, 0, 0.2);
+}
+
+.special {
+    background-color: rgba(0, 230, 10, 0.2);
+    border: 3px dashed darkslategray;
+}
+
+#div2 {
+    text-align: center;
+    background-color: rgba(22, 10, 230, 0.2);
+}
