@@ -1,19 +1,32 @@
 
 body {
-    background-image: url(web_background.avif);
+    background-image: url(web_background2.webp);
     background-size: cover;
     color: rgba(244, 5, 252, 0.808);
 }
 
-h2 {
-    color: pink;
+h1 {
+    color: rgb(115, 63, 182);
     text-align: center;
     /*border : 5px solid rgb(217, 255, 1);*/
     cursor: pointer;
 }
 
+img {
+    float: left;
+}
+
+footer {
+    /*clear: both;*/
+    text-align: center;
+}
+
 p {
-    color: pink;
+    line-height: 50px;
+    font-size: 130%;
+    font-weight: 900;
+    font-family: 'Roboto Slab', serif;
+    color: rgb(246, 122, 143);
 }
 
 li {
