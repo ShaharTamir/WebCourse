@@ -1,0 +1,13 @@
+.done {
+    text-decoration: line-through;
+    color: rgb(60, 74, 88);
+    margin: 5px;
+}
+
+li {
+    width: 20%;
+}
+
+li button {
+    margin: 5px;
+}
